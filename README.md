@@ -294,4 +294,4 @@ If you find any bugs or have further questions or requests, please post an issue
 
 ## Acknowledgments 
 
-We thank the anonymous reviewers of ISPASS 2023 for feedback. We acknowledge the generous gifts provided by our industrial partners, including ASML, Facebook, Google, Huawei, Intel, Microsoft, and VMware. We acknowledge support from the Semiconductor Research Corporation and the ETH Future Computing Laboratory.
+We thank the anonymous reviewers of ISPASS 2023 for feedback. We acknowledge the generous gifts provided by our industrial partners, including ASML, Facebook, Google, Huawei, Intel, Microsoft, and VMware. We acknowledge support from the Semiconductor Research Corporation, the ETH Future Computing Laboratory, and the BioPIM project.
