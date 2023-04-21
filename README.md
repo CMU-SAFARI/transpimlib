@@ -34,6 +34,18 @@ Bibtex entries for citation:
 }
 ```
 
+## Installation
+### Prerequisites
+Using TransPimLib requires installing the [UPMEM SDK](https://sdk.upmem.com/). 
+This implementation of the library designed to run on a server with real UPMEM modules, but they are also able to be run by the functional simulator in the UPMEM SDK.
+
+###  Getting Started 
+Clone the repository:
+```sh
+git clone https://github.com/CMU-SAFARI/transpimlib.git
+cd transpimlib
+```
+
 ## Repository Structure
 We point out next the repository structure and some important folders and files. 
 The repository also includes `run_*.sh` scripts to run the experiments in the paper.
