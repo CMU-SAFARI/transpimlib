@@ -34,7 +34,7 @@ Bibtex entries for citation:
 }
 ```
 
-## Repository Structure and Installation
+## Repository Structure
 We point out next the repository structure and some important folders and files. 
 The repository also includes `run_*.sh` scripts to run the experiments in the paper.
 
